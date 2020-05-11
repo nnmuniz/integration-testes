@@ -1,0 +1,6 @@
+.idea
+automation.out
+integration-tests.iml
+log4j.properties
+target/
+testNg.xml
